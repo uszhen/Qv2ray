@@ -1,26 +1,11 @@
-<p align="center">
-<img width="210" height="210" align="left" style="float: left; margin: 0 10px 0 0;" src="https://raw.githubusercontent.com/Qv2ray/Qv2ray/master/assets/icons/qv2ray.png" alt="Qv2ray"/>
-</br>
-<h1>Qv2ray - Unleash Your V2Ray</h1> 
-使用 Qt 框架的跨平台 V2Ray 客户端。支持 Windows, Linux, macOS
-</br>
-插件系统支持 SSR / Trojan / Trojan-Go / NaiveProxy
-</p>
+# 服务器代理服务 Server Proxy Service
 
-[![GitHub Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/latest/total?style=flat-square&logo=github)](https://github.com/Qv2ray/Qv2ray/releases)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Qv2ray/Qv2ray/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/Qv2ray/Qv2ray/releases)
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
 
-## 本项目已不再维护
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
 
-> Qv2ray: *2019-03-28 - 2021-08-17*
-
-自 4 月 30 日开发者内部出现矛盾之后的四个月中，并无活跃开发者参与维护，其他组织成员也并未有足够贡献量/能力，因此我们决定停止维护本项目，最新 Release 可见于 [v2.7.0](https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0)。
-
-感谢所有 Qv2ray 用户，项目组成员与外部贡献者，V2Fly 项目组成员及 V2Ray-Core 外部贡献者
-
-致敬
-
-gcc 写于 8 月 17 日
 
 -----
 
